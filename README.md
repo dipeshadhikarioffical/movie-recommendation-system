@@ -63,6 +63,6 @@ To deploy this project run
 
 ## Demo
 
-Insert gif or link to demo
+App Demo in local host
 
 ![App Demo](movie_recommendation.gif)
