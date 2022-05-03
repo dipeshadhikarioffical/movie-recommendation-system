@@ -57,6 +57,14 @@ To deploy this project run
 ```bash
   To run project (in terminal type) : streamlit run app.py 
 ```
+## Tech Stack
+
+**Client:** Machine Learning, Python, Statistics
+
+**Server:** Streamlit
+
+
+
 ## Screenshots
 
 ![App Screenshot](movie_recommendation.png)
@@ -66,3 +74,16 @@ To deploy this project run
 App Demo in local host
 
 ![App Demo](movie_recommendation.gif)
+## Authors
+
+- [@dipeshadhikarioffical](https://www.github.com/dipeshadhikarioffical)
+
+
+## 🛠 Skills
+Python, Machine Learning, Statistics, Excel, Data Analysis, Time Series, SQL, Flask, Streamlit, Git
+
+
+## 🔗 Links
+
+[![linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/dipeshadhikarioffical/)
+[![facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://twitter.com/dipeshadhikarioffical)
