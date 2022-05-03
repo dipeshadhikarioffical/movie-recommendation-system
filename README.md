@@ -65,4 +65,4 @@ To deploy this project run
 
 Insert gif or link to demo
 
-movie_recommendation.gif
+![App Demo](movie_recommendation.gif)
