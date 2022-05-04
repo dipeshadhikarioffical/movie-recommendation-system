@@ -14,7 +14,7 @@ To increase revenue by 5%.
 
 ### Motivation
 
-The main motivate to develop this project is to get internship in Data Science Position.
+The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science Position.
 
 
 ## Roadmap
