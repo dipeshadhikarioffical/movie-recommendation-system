@@ -73,7 +73,7 @@ To deploy this project run
 
 App Demo in local host
 
-![App Demo](movie_recommendation1.gif)
+![App Demo](movie-recommendation1.gif)
 ## Authors
 
 - [@dipeshadhikarioffical](https://www.github.com/dipeshadhikarioffical)
