@@ -13,7 +13,7 @@ Movie Recommendation Engine which increased film sales by 15% to 20% based on co
 
 ### Motivation
 
-The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science.
+The main motivation to develop this project is to enhance my knowledge and to get internship in Data Science.
 
 ## Roadmap
 
@@ -27,7 +27,7 @@ The main motivate to develop this project is to enhance my knowledge and to get 
 
 - Using API to show recommendated movie images in website (Website: TMDB )
 
-- Deploying the website in cloud (heruko)
+- Deploying the website in cloud
 
 
 ## Deployment
