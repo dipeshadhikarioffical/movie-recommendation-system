@@ -1,21 +1,19 @@
 
 # Movie Recommendation System
 
+### Screenshots
+
+![App Screenshot](movie_recommendation.png)
+
 ### Summary
 Movie Recommendation Engine developed to increase the sales of the movies based on the
 user content viewed. Main recommendation Engine are three types: Content Based, Collaborative and Hybrid.
-In this project, I am going to develop content based project.
-
-### Project Goal
-The Goal of my project is to increase movie sales by 15% to 20%. And to increase revenue by 5%.
-
-### Project Aim
-To increase revenue by 5%.
+In this project, I am going to develop content based project. 
+Movie Recommendation Engine which increased film sales by 15% to 20% based on content searched and watched. The goal and aim of this project is to increase the revenue by 5%. Using Flask Framework website is developed and TMDB website API is used to extract the movie posters. Main aim for developing this project is to enhance my knowledge and to get internship.
 
 ### Motivation
 
-The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science Position.
-
+The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science.
 
 ## Roadmap
 
@@ -29,7 +27,7 @@ The main motivate to develop this project is to enhance my knowledge and to get 
 
 - Using API to show recommendated movie images in website (Website: TMDB )
 
-- Deploying the website in cloud ( Streamlit )
+- Deploying the website in cloud (heruko)
 
 
 ## Deployment
@@ -57,33 +55,32 @@ To deploy this project run
 ```bash
   To run project (in terminal type) : streamlit run app.py 
 ```
-## Tech Stack
-
-**Client:** Machine Learning, Python, Statistics
-
-**Server:** Streamlit
 
 
-
-## Screenshots
-
-![App Screenshot](movie_recommendation.png)
 
 ## Demo
 
 App Demo in local host
 
 ![App Demo](movie-recommendation1.gif)
+
+## Live Demo
+Heroku App link:  https://movie-recommendation-projects.herokuapp.com/
+
+## Datasets
+
+Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 ## Authors
 
 - [@dipeshadhikarioffical](https://www.github.com/dipeshadhikarioffical)
 
 
-## 🛠 Skills
-Python, Machine Learning, Statistics, Excel, Data Analysis, Time Series, SQL, Flask, Streamlit, Git
+## 🛠 Skills Gained
+Python, Machine Learning, Statistics, Streamlit
 
 
-## 🔗 Links
+## 🔗 Follow Me On
 
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/dipeshadhikarioffical/)
-[![facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://twitter.com/dipeshadhikarioffical)
+[![facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/dipeshadhikarioffical)
