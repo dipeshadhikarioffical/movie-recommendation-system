@@ -47,10 +47,7 @@ To deploy this project run
   Copy downloaded files in your project
 ```
 ```bash
-  Then install packages (in terminal type): pip install streamlit
-```
-```bash
-   Install Pickle packages if error shown (in terminal type): pip install pickle
+Install requirements.txt it will install all the required packages (in terminal type): pip install -r requirements.txt
 ```
 ```bash
   To run project (in terminal type) : streamlit run app.py 
